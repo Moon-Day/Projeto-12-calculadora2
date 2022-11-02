@@ -1,3 +1,3 @@
-# Projeto-12-joogo-da-velha2
+# Projeto-12-jogo-da-velha2
 
  
